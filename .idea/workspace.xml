@@ -2,170 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="197988e7-eb25-436c-858d-92aa6eaebb3e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-ControlledCompliance TensegrityConstrainedInflatables/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-ControlledCompliance TensegrityConstrainedInflatables/css/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-ControlledCompliance TensegrityConstrainedInflatables/font/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-ControlledCompliance TensegrityConstrainedInflatables/font/fontawesome-selected.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-ControlledCompliance TensegrityConstrainedInflatables/font/fontawesome-selected.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-ControlledCompliance TensegrityConstrainedInflatables/font/fontawesome-selected.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-ControlledCompliance TensegrityConstrainedInflatables/images/2_01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-ControlledCompliance TensegrityConstrainedInflatables/images/2_02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-ControlledCompliance TensegrityConstrainedInflatables/images/2_03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-ControlledCompliance TensegrityConstrainedInflatables/images/2_04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-ControlledCompliance TensegrityConstrainedInflatables/images/2_06.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-ControlledCompliance TensegrityConstrainedInflatables/images/2_07.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-ControlledCompliance TensegrityConstrainedInflatables/images/2_08.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-ControlledCompliance TensegrityConstrainedInflatables/images/2_09.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-ControlledCompliance TensegrityConstrainedInflatables/images/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-ControlledCompliance TensegrityConstrainedInflatables/images/bartoszkosowski.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-ControlledCompliance TensegrityConstrainedInflatables/images/bgnoise_lg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-ControlledCompliance TensegrityConstrainedInflatables/images/black_denim.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-ControlledCompliance TensegrityConstrainedInflatables/images/cream_dust.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-ControlledCompliance TensegrityConstrainedInflatables/images/wood_pattern.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-ControlledCompliance TensegrityConstrainedInflatables/js/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-ControlledCompliance TensegrityConstrainedInflatables/video/comp.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2-HapticSteeringWheel/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2-HapticSteeringWheel/css/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2-HapticSteeringWheel/font/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2-HapticSteeringWheel/font/fontawesome-selected.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2-HapticSteeringWheel/font/fontawesome-selected.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2-HapticSteeringWheel/font/fontawesome-selected.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2-HapticSteeringWheel/images/1_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2-HapticSteeringWheel/images/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2-HapticSteeringWheel/js/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2-HapticSteeringWheel/video/Comb.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2-HapticSteeringWheel/video/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3-VisualInspectionofAeronauticDrillingSystem/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3-VisualInspectionofAeronauticDrillingSystem/css/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3-VisualInspectionofAeronauticDrillingSystem/font/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3-VisualInspectionofAeronauticDrillingSystem/font/fontawesome-selected.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3-VisualInspectionofAeronauticDrillingSystem/font/fontawesome-selected.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3-VisualInspectionofAeronauticDrillingSystem/font/fontawesome-selected.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3-VisualInspectionofAeronauticDrillingSystem/images/3_01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3-VisualInspectionofAeronauticDrillingSystem/images/3_02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3-VisualInspectionofAeronauticDrillingSystem/images/3_03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3-VisualInspectionofAeronauticDrillingSystem/images/3_04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3-VisualInspectionofAeronauticDrillingSystem/images/3_05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3-VisualInspectionofAeronauticDrillingSystem/images/3_06.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3-VisualInspectionofAeronauticDrillingSystem/images/3_07.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3-VisualInspectionofAeronauticDrillingSystem/images/3_08.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3-VisualInspectionofAeronauticDrillingSystem/images/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3-VisualInspectionofAeronauticDrillingSystem/js/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3-VisualInspectionofAeronauticDrillingSystem/video/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3-VisualInspectionofAeronauticDrillingSystem/video/visual.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-FingerSoftActuator/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-FingerSoftActuator/css/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-FingerSoftActuator/font/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-FingerSoftActuator/font/fontawesome-selected.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-FingerSoftActuator/font/fontawesome-selected.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-FingerSoftActuator/font/fontawesome-selected.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-FingerSoftActuator/images/4_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-FingerSoftActuator/images/4_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-FingerSoftActuator/images/4_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-FingerSoftActuator/images/4_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-FingerSoftActuator/images/4_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-FingerSoftActuator/images/4_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-FingerSoftActuator/images/4_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-FingerSoftActuator/images/4_8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-FingerSoftActuator/images/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-FingerSoftActuator/js/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-FingerSoftActuator/video/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5-VehicleAutomatiedParkingSystem/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5-VehicleAutomatiedParkingSystem/css/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5-VehicleAutomatiedParkingSystem/font/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5-VehicleAutomatiedParkingSystem/font/fontawesome-selected.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5-VehicleAutomatiedParkingSystem/font/fontawesome-selected.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5-VehicleAutomatiedParkingSystem/font/fontawesome-selected.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5-VehicleAutomatiedParkingSystem/images/5_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5-VehicleAutomatiedParkingSystem/images/5_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5-VehicleAutomatiedParkingSystem/images/5_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5-VehicleAutomatiedParkingSystem/images/5_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5-VehicleAutomatiedParkingSystem/images/5_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5-VehicleAutomatiedParkingSystem/images/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5-VehicleAutomatiedParkingSystem/js/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5-VehicleAutomatiedParkingSystem/video/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6-MethodofImageDenoisingBasedonPartialDifferentialEquation/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6-MethodofImageDenoisingBasedonPartialDifferentialEquation/css/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6-MethodofImageDenoisingBasedonPartialDifferentialEquation/font/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6-MethodofImageDenoisingBasedonPartialDifferentialEquation/font/fontawesome-selected.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6-MethodofImageDenoisingBasedonPartialDifferentialEquation/font/fontawesome-selected.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6-MethodofImageDenoisingBasedonPartialDifferentialEquation/font/fontawesome-selected.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6-MethodofImageDenoisingBasedonPartialDifferentialEquation/images/6_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6-MethodofImageDenoisingBasedonPartialDifferentialEquation/images/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6-MethodofImageDenoisingBasedonPartialDifferentialEquation/js/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6-MethodofImageDenoisingBasedonPartialDifferentialEquation/video/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/fonts/Brandon_med.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/fonts/Brandon_reg.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/social/codepen_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/social/linkedin_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/video/Inflatables.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/video/cv.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/video/denoise.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/video/finger.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/video/parking.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/video/steering.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/video/visual.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/zining.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-ControlledCompliance TensegrityConstrainedInflatables/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-ControlledCompliance TensegrityConstrainedInflatables/css/demo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-ControlledCompliance TensegrityConstrainedInflatables/css/fontawesome-selected.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-ControlledCompliance TensegrityConstrainedInflatables/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-ControlledCompliance TensegrityConstrainedInflatables/font/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-ControlledCompliance TensegrityConstrainedInflatables/font/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-ControlledCompliance TensegrityConstrainedInflatables/font/fontawesome-selected.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-ControlledCompliance TensegrityConstrainedInflatables/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-ControlledCompliance TensegrityConstrainedInflatables/js/modernizr.custom.63321.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2-HapticSteeringWheel/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2-HapticSteeringWheel/css/demo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2-HapticSteeringWheel/css/fontawesome-selected.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2-HapticSteeringWheel/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2-HapticSteeringWheel/font/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2-HapticSteeringWheel/font/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2-HapticSteeringWheel/font/fontawesome-selected.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2-HapticSteeringWheel/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2-HapticSteeringWheel/js/modernizr.custom.63321.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3-VisualInspectionofAeronauticDrillingSystem/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3-VisualInspectionofAeronauticDrillingSystem/css/demo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3-VisualInspectionofAeronauticDrillingSystem/css/fontawesome-selected.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3-VisualInspectionofAeronauticDrillingSystem/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3-VisualInspectionofAeronauticDrillingSystem/font/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3-VisualInspectionofAeronauticDrillingSystem/font/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3-VisualInspectionofAeronauticDrillingSystem/font/fontawesome-selected.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3-VisualInspectionofAeronauticDrillingSystem/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3-VisualInspectionofAeronauticDrillingSystem/js/modernizr.custom.63321.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-FingerSoftActuator/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-FingerSoftActuator/css/demo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-FingerSoftActuator/css/fontawesome-selected.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-FingerSoftActuator/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-FingerSoftActuator/font/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-FingerSoftActuator/font/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-FingerSoftActuator/font/fontawesome-selected.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-FingerSoftActuator/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-FingerSoftActuator/js/modernizr.custom.63321.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5-VehicleAutomatiedParkingSystem/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5-VehicleAutomatiedParkingSystem/css/demo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5-VehicleAutomatiedParkingSystem/css/fontawesome-selected.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5-VehicleAutomatiedParkingSystem/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5-VehicleAutomatiedParkingSystem/font/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5-VehicleAutomatiedParkingSystem/font/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5-VehicleAutomatiedParkingSystem/font/fontawesome-selected.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5-VehicleAutomatiedParkingSystem/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5-VehicleAutomatiedParkingSystem/js/modernizr.custom.63321.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6-MethodofImageDenoisingBasedonPartialDifferentialEquation/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6-MethodofImageDenoisingBasedonPartialDifferentialEquation/css/demo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6-MethodofImageDenoisingBasedonPartialDifferentialEquation/css/fontawesome-selected.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6-MethodofImageDenoisingBasedonPartialDifferentialEquation/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6-MethodofImageDenoisingBasedonPartialDifferentialEquation/font/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6-MethodofImageDenoisingBasedonPartialDifferentialEquation/font/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6-MethodofImageDenoisingBasedonPartialDifferentialEquation/font/fontawesome-selected.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6-MethodofImageDenoisingBasedonPartialDifferentialEquation/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6-MethodofImageDenoisingBasedonPartialDifferentialEquation/js/modernizr.custom.63321.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CNAME" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bundle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -239,12 +76,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569120027590</updated>
-      <workItem from="1569120029161" duration="143000" />
+      <workItem from="1569120029161" duration="373000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="143000" />
+    <option name="totallyTimeSpent" value="373000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="963" extended-state="6" />
